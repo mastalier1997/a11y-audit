@@ -1,0 +1,8 @@
+{
+  "name": "a11y-audit",
+  "description": "Audit web features and components for accessibility against WCAG 2.2 AA, combining a source scan with live-browser checks via Playwright MCP.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jan Mastalier"
+  }
+}
