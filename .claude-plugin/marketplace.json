@@ -1,0 +1,15 @@
+{
+  "name": "a11y-audit",
+  "owner": {
+    "name": "Jan Mastalier"
+  },
+  "description": "Accessibility tooling for Claude Code: WCAG 2.2 AA audit skill for web UIs.",
+  "plugins": [
+    {
+      "name": "a11y-audit",
+      "source": "./",
+      "description": "Audit web features and components for accessibility against WCAG 2.2 AA, combining a source scan with live-browser checks via Playwright MCP.",
+      "version": "1.0.0"
+    }
+  ]
+}
